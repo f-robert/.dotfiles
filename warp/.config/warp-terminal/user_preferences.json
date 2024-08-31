@@ -1,0 +1,15 @@
+{
+  "prefs": {
+    "AgentModeOnboardingBlockShown": "true",
+    "ChangelogVersions": "{\"v0.2024.06.25.08.02.stable_01\":true,\"v0.2024.08.06.08.01.stable_00\":true,\"v0.2024.08.13.08.02.stable_04\":true}",
+    "AIAssistantRequestLimitInfo": "{\"limit\":40,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-08-03T19:57:43.036627440Z\"}",
+    "CrashReportingEnabled": "true",
+    "TelemetryEnabled": "true",
+    "SameLinePromptBlockState": "\"DoNotShow\"",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "AIRequestLimitInfo": "{\"limit\":40,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-09-08T20:47:07.386759Z\"}",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "ExperimentId": "df574b4a-d1d1-40c3-9d5a-883da65d6cd9",
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"}]"
+  }
+}
